@@ -8,9 +8,9 @@ I’m Alexander, a software developer who read the map wrong but finally found m
 | ----------------------- | -------------- | ------------- | -------------------------- |
 | JavaScript (ES6+)       | Node.js        | MongoDB       | Git                        |
 | React.js                | Express        | PostgreSQL    | GitHub                     |
-| React Native            | REST APIs      | SQL           | Command-Line Interface (CLI) |
+| React Native            | REST APIs      | SQL           | Command-Line Interface(CLI)|
 | Expo                    | GraphQL        |               | Vite                       |
-| Zustand                 | WebSockets     |               | Jest                       |
+| TypeScript              | WebSockets     |               | Jest                       |
 
 ## My Approach
 
